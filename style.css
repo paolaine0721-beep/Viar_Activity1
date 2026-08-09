@@ -7,7 +7,7 @@
 
 /* BODY AND BACKGROUND */
     body {
-      background-image: "Image.jfif"; 
+      background-image: ('Image.jfif'); 
       background-size: cover;                  
       background-position: center;              
       background-repeat: no-repeat;            
