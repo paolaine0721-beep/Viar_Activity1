@@ -7,7 +7,7 @@
 
 /* BODY AND BACKGROUND */
     body {
-      background-image: url('Image.jfif'); /* Uses your local background image */
+      background-image: 'Image.jfif'; /* Uses your local background image */
       background-size: cover;                  
       background-position: center;              
       background-repeat: no-repeat;            
