@@ -155,12 +155,15 @@ header {
   display: flex;         
   align-items: center;   
   gap: 8px;              
+  line-height: 1;        
 }
 
 .logo-img {
-  height: 1.2rem;          
-  width: auto;           
-  object-fit: contain;
+  height: 18px;          
+  width: 18px;           
+  object-fit: contain;   
+  flex-shrink: 0;        
+  display: block;
 }
 .nav-links {
   display: flex;
