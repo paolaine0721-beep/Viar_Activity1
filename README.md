@@ -9,4 +9,4 @@ Personal Introduction Website
 # Features - Personal Profile - About Me - Education - Skills - Career Goal - Contact Information #
 # Technologies Used - HTML5 - CSS3 #
 # Live Website https://paolaine0721-beep.github.io/Viar_Activity1/ #
-# GitHub Repository https://github.com/paolaine0721-beep #
+# GitHub Repository [https://github.com/paolaine0721-beep](https://github.com/paolaine0721-beep/Viar_Activity1) #
