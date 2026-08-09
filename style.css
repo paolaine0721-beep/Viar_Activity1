@@ -148,12 +148,20 @@ header {
 }
 
 .logo {
-  font-family: "Apple Chancery" bold;
+  font-family: "Apple Chancery", cursive, serif; 
   font-weight: 700;
   font-size: 1rem;
   color: #542a75;
+  display: flex;         
+  align-items: center;   
+  gap: 8px;              
 }
 
+.logo-img {
+  height: 24px;          
+  width: auto;           
+  object-fit: contain;
+}
 .nav-links {
   display: flex;
   list-style: none; 
